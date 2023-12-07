@@ -142,8 +142,8 @@
                 <span class="icon-bar"></span>
             </button>
             <div class="brand mybrand">
-                <a href="{{$sitebill->createUrlTpl('')}}"><img src="/template/frontend/local/champrealty/resources/images/logo.png" style="height: 50px;"></a>
-                Онлайн-квартира
+                <a href="{{$sitebill->createUrlTpl('')}}"><img src="/template/frontend/admin4/resources/images/logo.svg" style="height: 50px;"></a>
+                CMS Sitebill
 
             </div>
 
